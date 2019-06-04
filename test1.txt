@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-new change
-=======
-slightly diff
->>>>>>> subBranch
+I don't want this
