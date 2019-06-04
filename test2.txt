@@ -1,2 +1,0 @@
-Another test, yet again!
-A new change after pull request was submitted.

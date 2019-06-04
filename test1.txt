@@ -1,1 +1,5 @@
-This is another test.
+<<<<<<< HEAD
+new change
+=======
+slightly diff
+>>>>>>> subBranch
