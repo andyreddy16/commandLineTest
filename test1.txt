@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new change
+=======
+slightly diff
+>>>>>>> subBranch
